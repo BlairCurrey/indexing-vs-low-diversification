@@ -5,3 +5,6 @@ asserted that "diverisification is a protection against ignorance," and he has a
 My goal is not to find such companies or even argue against diverisification. Instead, I want to see how likely beating the market is if someone bets on one company. 
 I don't mean finding the next Apple or Amazon, but simply betting on established, well-known companies. In support of this, I will look at the DIA, a fund that 
 tracks the Dow Jones, and it's components to see what portion of these outperformed the index as a whole.
+
+Instead of suggesting that one's chances of beating the market is low, I think it's better conclude that most people are not willing to accept the risk
+of straying from the market average.
