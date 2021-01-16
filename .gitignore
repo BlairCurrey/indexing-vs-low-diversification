@@ -1,7 +1,5 @@
 .env
 .ipynb_checkpoints
-data/old
 data/raw
 ivld-venv/
-dev-notes.txt
 __pycache__/
