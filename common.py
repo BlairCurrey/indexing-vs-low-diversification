@@ -26,9 +26,11 @@ def trim(df):
 @log
 def flatten_date(df):
     df = df.reset_index()
-    df = pd.pivot_table(df,index=['Symbol'],columns='Date',values='Close')
-    df.columns.name = ''
-    df.columns = ['Start Close','End Close']
+    # df = pd.pivot_table(df,index=['Symbol'],columns='Date',values='Close')
+    # df.columns.name = ''
+    # df.columns = ['Start Close','End Close']
+    df = df.set_index(['Symbol', df.groupby('Symbol').cumcount()]).unstack()
+    df.columns = [f'Start {c1}' if c2 == 0 else f'End {c1}' for c1, c2 in df.columns]
     return df
 
 @log
