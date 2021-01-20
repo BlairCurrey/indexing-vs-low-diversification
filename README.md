@@ -11,7 +11,7 @@ These claims about beating the market are so common I decided to test the questi
 
 ## Conclusions
 
-43.33% (13/30) of the companies in the Dow Jones in 1998 beat DIA, the Dow Jones Index, over the same time period, with a median outperformer rising 711.66%, compared to the 549.56% for DIA. Components of the Dow have a standard deviation of 461.35%.
+43.33% (13/30) of the companies in the Dow Jones in 1998 beat DIA, the Dow Jones Index, over the same time period, with a median outperformer rising 711.66%, compared to the 549.56% for DIA. Components of the Dow have a standard deviation of 504.07%.
 
 A few of these companies went bankrupt and were delisted. These are represented by `NaN` in our dataframe and consitute the 17 companies that did not beat the average.
 
