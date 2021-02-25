@@ -1,5 +1,6 @@
 .env
 .ipynb_checkpoints
+index-vs-low-diversification.pdf
 data/raw
 ivld-venv/
 __pycache__/
