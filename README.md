@@ -18,3 +18,6 @@ A few of these companies went bankrupt and were delisted. These are represented 
 This suggests if you were to invest in a Dow Jones company your chance of beating the market is likely much higher than the miniscule 10% sometimes implied by dogmatic indexers.
 
 Instead of suggesting that one's chances of beating the market is necessarily low, I think it's better conclude that most people are not willing to accept the risk of straying from the market average.
+
+### Notes
+alternative host for analysis - https://femto.pw/8rmr
