@@ -7,7 +7,7 @@ In response to this idea that an average person has a miniscule chance of beatin
 
 These claims about beating the market are so common I decided to test the questions I asked myself. My goal is to find this answer for a period of time dating back as far as possible for a set of "normal" companies. The universe of companies is large and their profiles vary. I don't mean finding the next Apple or Amazon, but simply betting on an established, well-known company. Nothing special or complicated. In support of this, I will look at DIA, the oldest mutual fund tracking the Dow Jones, and it's components to see what portion of these outperformed the index as a whole since 1998.
 
-[See the analysis here](analysis.ipynb) and [how I collected the data here](collect-data.ipynb).
+[See the analysis here](https://blaircurrey.github.io/indexing-vs-low-diversification/) and [how I collected the data here](collect-data.ipynb).
 
 ## Conclusions
 
