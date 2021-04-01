@@ -1,3 +1,5 @@
+# [See the analysis here](https://blaircurrey.github.io/indexing-vs-low-diversification/)
+
 ## Problem
 
 In some investment circles you often hear statistics such as ["90% of actively managed investment funds failed to beat the market"](https://www.businessinsider.com/personal-finance/investment-pros-cant-beat-the-stock-market-2020-7)
